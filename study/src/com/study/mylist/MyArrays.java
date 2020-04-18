@@ -17,7 +17,6 @@ public class MyArrays {
         for (byte b : bytes){
             System.out.print(b + "");
         }
-        List
     }
 
 }
